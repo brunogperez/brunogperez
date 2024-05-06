@@ -1,4 +1,4 @@
-### Hi I'm Bruno 👋
+# Hi I'm Bruno 👋👨‍💻
 ``` js
 const aboutMe = {
    pronouns: "he" | "him",
@@ -11,8 +11,9 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB",],
-      mobile: ["React Native"]
+      databases: ["MongoDB","Firebase"],
+      mobile: ["React Native"],
+tools: ['GIT', 'GitHub'],
    },
    currentOccupation: ["open for job opportunities"],
    challenge: "be better each day",
@@ -20,6 +21,7 @@ const aboutMe = {
 
  ```
 
-You can find me on: 
-- [Linkedin](https://www.linkedin.com/in/bruno-perez-381789212/)
-- [Instagram](https://www.instagram.com/perezbrunog/)
+### You can find me on: 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bruno-perez-381789212/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/perezbrunog/)
+
