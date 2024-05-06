@@ -6,14 +6,14 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: [ "Bootstrap" ]
+         css: ["Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express"],
       },
       databases: ["MongoDB","Firebase"],
       mobile: ["React Native"],
-tools: ['GIT', 'GitHub'],
+      tools: ["GIT", "GitHub"],
    },
    currentOccupation: ["open for job opportunities"],
    challenge: "be better each day",
