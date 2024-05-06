@@ -21,4 +21,5 @@ const aboutMe = {
  ```
 
 You can find me on: 
-- [linkedin](https://www.linkedin.com/in/bruno-perez-381789212/)
+- [Linkedin](https://www.linkedin.com/in/bruno-perez-381789212/)
+- [Instagram](https://www.instagram.com/perezbrunog/)
