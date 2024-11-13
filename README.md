@@ -5,13 +5,13 @@ const aboutMe = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "Angular"],
          css: ["Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB","Firebase"],
+      databases: ["MongoDB","Firebase", "SQL"],
       mobile: ["React Native"],
       tools: ["GIT", "GitHub"],
    },
