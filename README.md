@@ -12,7 +12,7 @@ const aboutMe = {
          js: ["Node", "Express"],
       },
       databases: ["MongoDB","Firebase", "SQL"],
-      mobile: ["React Native"],
+      mobile: ["React Native","Ionic"],
       tools: ["GIT", "GitHub"],
    },
    currentOccupation: ["open for job opportunities"],
